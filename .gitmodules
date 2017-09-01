@@ -1,0 +1,159 @@
+[submodule "docker-cif"]
+	path = docker-cif
+	url = https://github.com/ventz/docker-cif.git
+[submodule "docker-misp"]
+	path = docker-misp
+	url = https://github.com/harvard-itsecurity/docker-misp.git
+[submodule "userline"]
+	path = userline
+	url = https://github.com/THIBER-ORG/userline.git
+[submodule "docker-zap-elk"]
+	path = docker-zap-elk
+	url = https://github.com/boranx/docker-zap-elk.git
+[submodule "hawkeye"]
+	path = hawkeye
+	url = https://github.com/Stono/hawkeye.git
+[submodule "docker-webappsecscanbox"]
+	path = docker-webappsecscanbox
+	url = https://github.com/righettod/docker-webappsecscanbox.git
+[submodule "zaproxy"]
+	path = zaproxy
+	url = https://github.com/zaproxy/zaproxy.git
+[submodule "Snakepit"]
+	path = Snakepit
+	url = https://github.com/K4lium/Snakepit.git
+[submodule "hydra"]
+	path = hydra
+	url = https://github.com/ory/hydra.git
+[submodule "x11docker"]
+	path = x11docker
+	url = https://github.com/mviereck/x11docker.git
+[submodule "dagda"]
+	path = dagda
+	url = https://github.com/eliasgranderubio/dagda.git
+[submodule "klar"]
+	path = klar
+	url = https://github.com/optiopay/klar.git
+[submodule "docker-hacklab"]
+	path = docker-hacklab
+	url = https://github.com/ston3o/docker-hacklab.git
+[submodule "dockerimages"]
+	path = dockerimages
+	url = https://github.com/beardyjay/dockerimages.git
+[submodule "openvas-docker"]
+	path = openvas-docker
+	url = https://github.com/mikesplain/openvas-docker.git
+[submodule "docker-bench-security"]
+	path = docker-bench-security
+	url = https://github.com/docker/docker-bench-security.git
+[submodule "docker-webscan"]
+	path = docker-webscan
+	url = https://github.com/kost/docker-webscan.git
+[submodule "sslscan"]
+	path = sslscan
+	url = https://github.com/unbounce/sslscan.git
+[submodule "director"]
+	path = director
+	url = https://github.com/4383/director.git
+[submodule "sectest"]
+	path = sectest
+	url = https://github.com/raesene/sectest.git
+[submodule "system-service-footprint"]
+	path = system-service-footprint
+	url = https://github.com/4383/system-service-footprint.git
+[submodule "dockscan"]
+	path = dockscan
+	url = https://github.com/kost/dockscan.git
+[submodule "dockersec"]
+	path = dockersec
+	url = https://github.com/SentimensRG/dockersec.git
+[submodule "appsec-docker-py"]
+	path = appsec-docker-py
+	url = https://github.com/aaronweaver/appsec-docker-py.git
+[submodule "docker-alpine-beef"]
+	path = docker-alpine-beef
+	url = https://github.com/thimico/docker-alpine-beef.git
+[submodule "docker-viperli"]
+	path = docker-viperli
+	url = https://github.com/Zenithar/docker-viperli.git
+[submodule "httphose"]
+	path = httphose
+	url = https://github.com/HarryR/httphose.git
+[submodule "seccubus-docker"]
+	path = seccubus-docker
+	url = https://github.com/schubergphilis/seccubus-docker.git
+[submodule "dockerscan"]
+	path = dockerscan
+	url = https://github.com/cr0hn/dockerscan.git
+[submodule "bananapwn"]
+	path = bananapwn
+	url = https://github.com/PwnPundits/bananapwn.git
+[submodule "doco-maltrail"]
+	path = doco-maltrail
+	url = https://github.com/thomasleveil/doco-maltrail.git
+[submodule "docker-security-images"]
+	path = docker-security-images
+	url = https://github.com/ellerbrock/docker-security-images.git
+[submodule "drydock"]
+	path = drydock
+	url = https://github.com/zuBux/drydock.git
+[submodule "docker-bta"]
+	path = docker-bta
+	url = https://github.com/2xyo/docker-bta.git
+[submodule "d-sole"]
+	path = d-sole
+	url = https://github.com/indiehosters/d-sole.git
+[submodule "securityonion-docker"]
+	path = securityonion-docker
+	url = https://github.com/kai5263499/securityonion-docker.git
+[submodule "docker-bench-security-logging"]
+	path = docker-bench-security-logging
+	url = https://github.com/martezr/docker-bench-security-logging.git
+[submodule "dradis-docker"]
+	path = dradis-docker
+	url = https://github.com/zuazo/dradis-docker.git
+[submodule "lynis"]
+	path = lynis
+	url = https://github.com/dduportal-dockerfiles/lynis.git
+[submodule "docker-snort-ids"]
+	path = docker-snort-ids
+	url = https://github.com/fabriziogaliano/docker-snort-ids.git
+[submodule "little-pig"]
+	path = little-pig
+	url = https://github.com/lifehug/little-pig.git
+[submodule "docker-masscan"]
+	path = docker-masscan
+	url = https://github.com/cmoro-deusto/docker-masscan.git
+[submodule "scanssh-docker"]
+	path = scanssh-docker
+	url = https://github.com/ellerbrock/scanssh-docker.git
+[submodule "dnsbrute"]
+	path = dnsbrute
+	url = https://github.com/XiphosResearch/dnsbrute.git
+[submodule "MegaDev"]
+	path = MegaDev
+	url = https://github.com/spitfire55/MegaDev.git
+[submodule "log4bro"]
+	path = log4bro
+	url = https://github.com/micro-tools/log4bro.git
+[submodule "Bro-Elk"]
+	path = Bro-Elk
+	url = https://github.com/u439/Bro-Elk.git
+[submodule "Amsterdam"]
+	path = Amsterdam
+	url = https://github.com/StamusNetworks/Amsterdam.git
+[submodule "prickly-pete"]
+	path = prickly-pete
+	url = https://github.com/philcryer/prickly-pete.git
+[submodule "docker-ids"]
+	path = docker-ids
+	url = https://github.com/themistymay/docker-ids.git
+[submodule "docker-bro"]
+	path = docker-bro
+	url = https://github.com/blacktop/docker-bro.git
+[submodule "ivre"]
+	path = ivre
+	url = https://github.com/cea-sec/ivre.git
+[submodule "MISP"]
+	path = MISP
+	url = https://github.com/MISP/MISP.git

@@ -157,3 +157,12 @@
 [submodule "MISP"]
 	path = MISP
 	url = https://github.com/MISP/MISP.git
+[submodule "Seccubus"]
+	path = Seccubus
+	url = https://github.com/schubergphilis/Seccubus
+[submodule "BroCoo"]
+	path = BroCoo
+	url = https://github.com/dboekhout/BroCoo.git
+[submodule "CMSmap"]
+	path = CMSmap
+	url = https://github.com/BrianHeeseIs/CMSmap.git
